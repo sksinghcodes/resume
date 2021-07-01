@@ -5,11 +5,11 @@
 }
 
 body {
-	height: 11.69in;
-	width: 8.25in;
+	height: 1122px;
+	width: 795px;
 	border: 1px solid #000;
 	font-family: poppins;
-	padding: .3in 0;
+	padding: 28px 0;
 	position: relative;
 }
 
@@ -139,7 +139,7 @@ h4 {
 
 footer {
     position: absolute;
-    bottom: .4in;
+    bottom: 36px;
     width: 100%;
 }
 
